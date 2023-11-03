@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\DisaheimTest\\DisaheimTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\DisaheimTest\\DisaheimTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\DisaheimTest\\DisaheimTest.csproj",
+        "projectName": "DisaheimTest",
+        "projectPath": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\DisaheimTest\\DisaheimTest.csproj",
+        "packagesPath": "C:\\Users\\Florint Sadiku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\DisaheimTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Florint Sadiku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\Disaheim\\Disaheim.csproj": {
+                "projectPath": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\Disaheim\\Disaheim.csproj"
+              },
+              "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\UtilityLib\\UtilityLib.csproj": {
+                "projectPath": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\UtilityLib\\UtilityLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\Disaheim\\Disaheim.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\Disaheim\\Disaheim.csproj",
+        "projectName": "Disaheim",
+        "projectPath": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\Disaheim\\Disaheim.csproj",
+        "packagesPath": "C:\\Users\\Florint Sadiku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\Disaheim\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Florint Sadiku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\UtilityLib\\UtilityLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\UtilityLib\\UtilityLib.csproj",
+        "projectName": "UtilityLib",
+        "projectPath": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\UtilityLib\\UtilityLib.csproj",
+        "packagesPath": "C:\\Users\\Florint Sadiku\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\UtilityLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Florint Sadiku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\Disaheim\\Disaheim.csproj": {
+                "projectPath": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Disaheim\\Disaheim\\Disaheim.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
